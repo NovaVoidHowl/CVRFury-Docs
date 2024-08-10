@@ -23,9 +23,9 @@
 
 <p align="center">
     <br />
-    <a href="https://github.com/NovaVoidHowl/CVRFury/issues">Report Bug</a>
+    <a href="https://github.com/NovaVoidHowl/CVRFury-Docs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/NovaVoidHowl/CVRFury/issues">Request Feature</a>
+    <a href="https://github.com/NovaVoidHowl/CVRFury-Docs/issues">Request Feature</a>
   </p>
 </div>
 
