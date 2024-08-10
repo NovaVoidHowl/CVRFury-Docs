@@ -16,6 +16,7 @@ nav_order: 1
   <br />
   <a href="https://repo.cvrfury.uk"><strong>Explore Code Base of the project »</strong></a>
   <br />
+  <a href="https://dc.cvrfury.uk"><strong>Join the Discord Server »</strong></a>
   <br />
   <a href="https://github.com/NovaVoidHowl/CVRFury/issues">Report Bug</a>
   ·
