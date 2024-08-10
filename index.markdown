@@ -14,13 +14,16 @@ nav_order: 1
 
 <p align="center">
   <br />
-  <a href="https://repo.cvrfury.uk"><strong>Explore Code Base of the project »</strong></a>
+  <a href="https://repo.cvrfury.uk"><strong>Explore Code Base (on Github) »</strong></a>
+  <br />
   <br />
   <a href="https://dc.cvrfury.uk"><strong>Join the Discord Server »</strong></a>
+  <br />
   <br />
   <a href="https://github.com/NovaVoidHowl/CVRFury/issues">Report Bug</a>
   ·
   <a href="https://github.com/NovaVoidHowl/CVRFury/issues">Request Feature</a>
+  <br />
   <br />
 </p>
 
