@@ -30,8 +30,14 @@ github_username: novavoidhowl
 # Build settings
 theme: just-the-docs
 
-logo: "assets/images/logos/CVRFuryLogo.png"
+logo: assets/images/logos/CVRFuryLogo.png
 color_scheme: dark
+
+callouts:
+  warning-no-title:
+    color: red
+  info-no-title:
+    color: blue
 
 # Exclude from processing.
 # The following items will not be processed, by default.

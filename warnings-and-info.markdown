@@ -16,11 +16,13 @@ Datastore V3 compatibility added as of CVRFury 0.124.0-experimental
 If you imported a prefab into your scene that was made for a version of VRCFury after 1.744.0, you will need to
 re-convert its VRCFury prefab and re-add it, as if it was there before it's 'content' datastore will be corrupted
 
-> ⓘ \
-Import support of V3 datastore items is currently a work in progress, please see the 'Feature list' section of this
-document for more info.
+{: .info-no-title }
 
----
+> <img src="assets/images/icons/info.512x512.png" alt="warning" width="25" height="25"> \
+> Import support of V3 datastore items is currently a work in progress, please see the 'Feature list' section of this
+> document for more info.
+
+______________________________________________________________________
 
 ## Things that are not included
 

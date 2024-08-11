@@ -11,5 +11,5 @@ nav_order: 1
 
 ## Licenceing
 
-Please see the project software repository 
+Please see the project software repository
 [license section](https://github.com/NovaVoidHowl/CVRFury/blob/alpha/LICENSE.md) for details on software licenceing

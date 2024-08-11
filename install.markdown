@@ -22,7 +22,7 @@ The currently supported version is `2021.3.23f1`
 ### Git
 
 Git is needed to install the project package via the unity package manager, please download from the official
- [Git site](https://git-scm.com/)
+[Git site](https://git-scm.com/)
 
 ### ChilloutVR CCK
 
@@ -30,7 +30,7 @@ This package is for use with the ChilloutVR CCK, please download from the offici
 [downloads page](https://docs.abinteractive.net/cck/setup/)\
 The currently supported version is `3.10`
 
----
+______________________________________________________________________
 
 ## Unity Package Prerequisites
 
@@ -48,12 +48,18 @@ Note the following should be auto installed to the project by adding this packag
 4. Click the add button
 
 The script should then be ready to configure via `NVH -> CVRFury -> Tool Setup`.
-> ⓘ \
-Recommendation is to install all app components from the Tool Setup menu to enable all possible features
+
+{: .info-no-title }
+
+> <img src="assets/images/icons/info.512x512.png" alt="warning" width="25" height="25"> \
+> Recommendation is to install all app components from the Tool Setup menu to enable all possible features
 
 ## Core Update Manager
 
 Should you want to switch to a different release channel or specific release of the software, you can do this via the menu
-option at `NVH -> CVRFury -> Update Manager`\
-> ⓘ \
-Note it is recommended to restart unity after switching to a new channel or specific release
+option at `NVH -> CVRFury -> Update Manager`\\
+
+{: .info-no-title }
+
+> <img src="assets/images/icons/info.512x512.png" alt="warning" width="25" height="25"> \
+> Note it is recommended to restart unity after switching to a new channel or specific release
