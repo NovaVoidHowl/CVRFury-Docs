@@ -20,13 +20,6 @@ re-convert its VRCFury prefab and re-add it, as if it was there before it's 'con
 Import support of V3 datastore items is currently a work in progress, please see the 'Feature list' section of this
 document for more info.
 
-### ⏳ Long Running Tasks
-
-If you have animations with large numbers of armature bones being animated in them, then expect long run times on the
-ArmatureLink module as it will have to re-write them all.
-TLDR: If its still showing as processing and you can see disk activity, then it is not hung as it may appear to be,
- just let it run, and come back to it in a few minutes 
-
 ---
 
 ## Things that are not included

@@ -32,7 +32,7 @@ The currently supported version is `3.10`
 
 ---
 
-## Unity package Prerequisites
+## Unity Package Prerequisites
 
 Note the following should be auto installed to the project by adding this package
 

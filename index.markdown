@@ -27,12 +27,22 @@ nav_order: 1
   <br />
 </p>
 
+>⚠️\
+Note this project is in an alpha state and not ready for mainstream any use yet
+ (though Feature listed as functioning in the `Feature Support` section should work).
 
+<br />
 The aim of this project is to create a tool kit that can process VRCFury supported content for use in ChilloutVR.
 
->⚠️\
-Note this project is in a alpha state and not ready for mainstream any use yet
- (though Feature listed as functioning in the `Feature Support` section should work now).
+---
+
+Currently supported software versions:
+
+- ChilloutVR CCK version `3.10`
+- VRCFury version (for data import) `1.909.0`
+- Unity `2021.3.23f1`
+
+
 
 ---
 

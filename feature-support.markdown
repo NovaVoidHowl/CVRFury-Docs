@@ -49,10 +49,10 @@ Note at this time there is no native config UI for CVRFury modules yet (save the
 |      Toes Puppet       |         ❌🔽         |       ❌🔽       |                                                                                    |
 |    Advanced Visemes    |          ❔           |        ❔         |                                                                                    |
 |      ArmatureLink      |         ✔️          |       ✔️        |                                                                                    |
-|     BoundingBoxFix     |         ✔️         |       ✔️       |                                                                                    |
-|    FixWriteDefaults    |         ✔️        |       ✔️      |                                                                                    |
+|     BoundingBoxFix     |         ✔️          |       ✔️        |                                                                                    |
+|    FixWriteDefaults    |         ✔️          |       ✔️        |                                                                                    |
 |   RemoveHandGestures   |         ❌🔽         |       ❌🔽       |                                                                                    |
-|   AnchorOverrideFix    |         ❔🔽         |       ❔🔽       |                                                                                    |
+|   AnchorOverrideFix    |         ✔️          |       ✔️        | fix is automatically applied for meshes missing probeAnchor setting                |
 |      MoveMenuItem      |         ❔🔽         |       ❔🔽       |                                                                                    |
 |     GestureDriver      |         ❔🔽         |       ❔🔽       |                                                                                    |
 |         Gizmo          |         ❌🔽         |       ❌🔽       |                                                                                    |
@@ -66,3 +66,4 @@ Note at this time there is no native config UI for CVRFury modules yet (save the
 |   ShowInFirstPerson    |         ✔️          |       ✔️        |                                                                                    |
 |    MmdCompatibility    |         ❔🔽         |       ❔🔽       |                                                                                    |
 |    Parameter Stream    |          🚫          |       ✔️        | VRC does not have Parameter stream equivalent                                      |
+|  removeLegacyToggles   |          🚫          |       ⚙️        |                                                                                    |

@@ -30,6 +30,9 @@ github_username: novavoidhowl
 # Build settings
 theme: just-the-docs
 
+logo: "assets/images/logos/CVRFuryLogo.png"
+color_scheme: dark
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

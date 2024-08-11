@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-permalink: /licenceing
-title: Licenceing
-nav_order: 5
+permalink: /technical/licenceing
+parent: Technical Notes
+title: Code Licenceing
+nav_order: 1
 ---
 
 ## Licenceing
