@@ -66,4 +66,4 @@ Note at this time there is no native config UI for CVRFury modules yet (save the
 |   ShowInFirstPerson    |          ✔️           |        ✔️         |                                                                                    |
 |    MmdCompatibility    |          ❔🔽           |        ❔🔽         |                                                                                    |
 |    Parameter Stream    |           🚫           |        ✔️         | VRC does not have Parameter stream equivalent                                      |
-|  removeLegacyToggles   |           🚫           |        ⚙️         |                                                                                    |
+|  removeLegacyToggles   |           🚫           |        ✔️         |                                                                                    |
