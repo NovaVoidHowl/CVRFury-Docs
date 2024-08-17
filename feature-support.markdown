@@ -40,7 +40,6 @@ Note at this time there is no native config UI for CVRFury modules yet (save the
 | FlipBookBuilderAction  |           ❔           |         ❔         |                                                                                    |
 |                        |                       |                   |                                                                                    |
 |        Blinking        |           ❔           |         ❔         |                                                                                    |
-|       Breathing        |           ❔           |         ❔         |                                                                                    |
 |     FullController     |          ✔️           |        ✔️         | Note: no support for menu section triggered toggles (CVR menu is flat, not a tree) |
 |         Toggle         |          ❌🔽           |        ❌🔽         |                                                                                    |
 |         Puppet         |           ❔           |         ❔         |                                                                                    |
@@ -61,7 +60,6 @@ Note at this time there is no native config UI for CVRFury modules yet (save the
 |        SetIcon         |           🚫           |         🚫         | There are no icons on CVR menus                                                    |
 |  OverrideMenuSettings  |           🚫           |         🚫         | Related to VRC menu structure only                                                 |
 |  BlendshapeOptimizer   |          ❔🔽           |        ❔🔽         |                                                                                    |
-|        Slot4Fix        |           ❔           |         ❔         |                                                                                    |
 |  DirectTreeOptimizer   |          ❔🔽           |        ❔🔽         |                                                                                    |
 |   ShowInFirstPerson    |          ✔️           |        ✔️         |                                                                                    |
 |    MmdCompatibility    |          ❔🔽           |        ❔🔽         |                                                                                    |
