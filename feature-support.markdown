@@ -54,7 +54,7 @@ Note at this time there is no native config UI for CVRFury modules yet (save the
 |   AnchorOverrideFix    |          ✔️           |        ✔️         | fix is automatically applied for meshes missing probeAnchor setting                |
 |      MoveMenuItem      |          ❔🔽           |        ❔🔽         |                                                                                    |
 |     GestureDriver      |          ❔🔽           |        ❔🔽         |                                                                                    |
-|         Gizmo          |          ❌🔽           |        ❌🔽         |                                                                                    |
+|         Gizmo          |          ⚙️           |         ❌         |                                                                                    |
 |   DeleteDuringUpload   |          ✔️           |        ✔️         |                                                                                    |
 |     BlendShapeLink     |          ❔🔽           |        ❔🔽         |                                                                                    |
 |        SetIcon         |           🚫           |         🚫         | There are no icons on CVR menus                                                    |
