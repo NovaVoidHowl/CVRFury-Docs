@@ -33,3 +33,9 @@ ensure you have pressed the `Create Controller` followed by the `Attach created 
 > It is not recommended to inject a base animator this way as you will have to manually add new features that come
 > with updated CCKs to your controller by hand.\
 > The best way to add in custom layers is via use of a DSU with a FullController Module
+
+### Magica Cloth 2 Support script error
+
+I you get a script error related to `CVRFuryMagicaCloth2Config.cs`, please use the remove option next to its entry in
+the Tool Setup window, install magica cloth 2 from the unity store and then click the install option again  in the Tool
+Setup window, this should resolve the issue.

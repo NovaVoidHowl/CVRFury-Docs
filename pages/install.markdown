@@ -52,7 +52,9 @@ The script should then be ready to configure via `NVH -> CVRFury -> Tool Setup`.
 {: .info-no-title }
 
 > <img src="assets/images/icons/info.512x512.png" alt="warning" width="25" height="25"> \
-> Recommendation is to install all app components from the Tool Setup menu to enable all possible features
+> Recommendation is to install all app components from the Tool Setup menu to enable all possible features\
+> The exception to this being the `CVRFuryMagicaCloth2Config` option, please don't add this unless you have
+> Magica Cloth 2 In the project
 
 ## Core Update Manager
 
