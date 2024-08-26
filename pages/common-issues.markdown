@@ -12,6 +12,19 @@ ArmatureLink module as it will have to re-write them all.
 TLDR: If its still showing as processing and you can see disk activity, then it is not hung as it may appear to be,
 just let it run, and come back to it in a few minutes
 
+### Actually Hung Tasks
+
+If you ever do have do run into a fully hung task run (most common occurrence cause so far is having multiple DSUs with
+no modules in them), then is is important that you **CLOSE** the unity project window.\
+Do **NOT** try and exist play mode as doing so risks causing corruptions to your avatar.\
+Once you have closed the project open it again, you will get this prompt
+
+<div align="left">
+  <img src="/assets/images/common-issues/unity-re-open-error.PNG" alt="unity-re-open-error">
+</div>
+Click the 'Close' option and then reopen the project once more. This will get you back to how things were before the
+error occurred.
+
 ### Custom Base Animator Not Working
 
 If your custom base animator set in the `Advanced Settings` section, is not loading in as expected,
