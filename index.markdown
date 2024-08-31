@@ -30,8 +30,8 @@ nav_order: 1
 {: .warning-no-title }
 
 > <img src="assets/images/icons/warning.512x512.png" alt="warning" width="25" height="25"> \
-> Note this project is in an alpha state and not ready for mainstream any use yet
-> (though Feature listed as functioning in the `Feature Support` section should work).
+> Note this project is in an alpha state and not ready for mainstream use yet
+> (though Feature listed as functioning in the [Feature Support](/feature-support) section should work).
 
 <br />
 The aim of this project is to create a tool kit that can process VRCFury supported content for use in ChilloutVR.
