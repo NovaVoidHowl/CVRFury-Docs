@@ -20,14 +20,19 @@ re-convert its VRCFury prefab and re-add it, as if it was there before it's 'con
 
 > <img src="assets/images/icons/info.512x512.png" alt="warning" width="25" height="25"> \
 > Import support of V3 datastore items is currently a work in progress, please see the 'Feature list' section of this
-> document for more info.
+> document for more info
+
+### Nested Prefabs
+
+Nested prefabs (a prefab with another prefab inside it), are not supported for import/conversion\
+Note attempting conversion of such a prefab may result in missing components depending on how it was constructed
 
 ______________________________________________________________________
 
 ## Things that are not included
 
 The following are not features of this project, you will need to handle the following conversions by hand,
-or find a tool that can do them.
+or find a tool that can do them
 
 - PhysBone to Dynamic Bone conversion
 - PhysBone to Magica Cloth (1 or 2) conversion
