@@ -28,7 +28,7 @@ Git is needed to install the project package via the unity package manager, plea
 
 This package is for use with the ChilloutVR CCK, please download from the official ABI Interactive
 [downloads page](https://docs.abinteractive.net/cck/setup/)\
-The currently supported version is `3.10`
+The currently supported version is `3.11`
 
 ______________________________________________________________________
 
