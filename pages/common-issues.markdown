@@ -16,7 +16,7 @@ just let it run, and come back to it in a few minutes
 
 If you ever do have do run into a fully hung task run (most common occurrence cause so far is having multiple DSUs with
 no modules in them), then is is important that you **CLOSE** the unity project window.\
-Do **NOT** try and exist play mode as doing so risks causing corruptions to your avatar.\
+Do **NOT** try and exit play mode as doing so risks causing corruptions to your avatar.\
 Once you have closed the project open it again, you will get this prompt
 
 <div align="left">

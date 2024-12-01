@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-permalink: /components
-title: Components
-nav_order: 7
+permalink: /conversion-tools
+title: Conversion Tools
+nav_order: 6
 has_children: true
 ---
