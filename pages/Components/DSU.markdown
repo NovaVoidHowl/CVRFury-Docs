@@ -19,6 +19,11 @@ nav_order: 1
 > To enable add a `Component Dev Mode Enabler` component to the
 > same gameObject as the DSU and tick the 'Dev Mode Enabled' checkbox
 
+{: .info-no-title }
+
+> Note the DSU component will only function correctly on GameObjects under the root avatar one
+> please do not put it directly on root avatar game object (the one with the CVRAvatar component)
+
 This is the core component for each prefab.\
 It is intended that you add one (and only one), to the root gameObject of your prefab.
 
