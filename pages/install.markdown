@@ -10,14 +10,14 @@ nav_order: 3
 
 ## Install Prerequisites
 
-- Unity 2021.3.23f1
+- Unity 2021.3.45f1
 - git
 - ChilloutVR CCK
 
 ### Unity
 
 Please download and install from the unity official [release site](https://unity.com/releases/editor/archive)\
-The currently supported version is `2021.3.23f1`
+The currently supported version is `2021.3.45f1`
 
 ### Git
 
@@ -28,7 +28,7 @@ Git is needed to install the project package via the unity package manager, plea
 
 This package is for use with the ChilloutVR CCK, please download from the official ABI Interactive
 [downloads page](https://docs.abinteractive.net/cck/setup/)\
-The currently supported version is `3.11`
+The currently supported version is `3.13.4`
 
 ______________________________________________________________________
 

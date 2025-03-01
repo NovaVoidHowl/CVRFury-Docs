@@ -40,9 +40,9 @@ ______________________________________________________________________
 
 Currently supported software versions:
 
-- ChilloutVR CCK version `3.11`
+- ChilloutVR CCK version `3.13.4`
 - VRCFury version (for data import) `1.909.0`
-- Unity `2021.3.23f1`
+- Unity `2021.3.45f1`
 
 ______________________________________________________________________
 
