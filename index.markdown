@@ -38,9 +38,9 @@ The aim of this project is to create a tool kit that can process VRCFury support
 
 ______________________________________________________________________
 
-Currently supported software versions:
+Currently supported/validated software versions:
 
-- ChilloutVR CCK version `3.13.4`
+- ChilloutVR CCK version `3.15.1`
 - VRCFury version (for data import) `1.909.0`
 - Unity `2021.3.45f1`
 
