@@ -46,4 +46,7 @@ Currently supported/validated software versions:
 
 ______________________________________________________________________
 
-See the [VRCFury Webpage](https://vrcfury.com/) for more info on the project that inspired this one.
+<u><b>Notices:</b></u>
+
+- See the [VRCFury Webpage](https://vrcfury.com/) for more info on the project that inspired this one.
+- This website is not run by or affiliated with ChilloutVR or the ChilloutVR team in any way
