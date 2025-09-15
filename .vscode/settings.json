@@ -6,8 +6,12 @@
     "editorcoroutines",
     "licenceing",
     "Magica",
+    "mdformat",
     "newtonsoft",
-    "vectorgraphics"
+    "novavoidhowl",
+    "stylesheet",
+    "vectorgraphics",
+    "zoneinfo"
   ],
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
@@ -15,5 +19,5 @@
     120
   ],
   "editor.tabSize": 2,
-  "vscord.enabled": true
+  "vscord.app.privacyMode.enable": false
 }
