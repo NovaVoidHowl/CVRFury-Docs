@@ -1,0 +1,44 @@
+// Custom styles for CVRFury documentation
+// This file is automatically included by the just-the-docs theme
+
+/* Adjust the main content area and sidebar layout */
+.side-bar {
+  width: 264px;
+}
+
+/* Force full width layout by overriding theme constraints */
+@media (min-width: 50rem) {
+  .main {
+    margin-left: 264px !important;
+    max-width: none !important;
+  }
+
+  .main-content-wrap {
+    max-width: none !important;
+    margin: 0 !important;
+    padding-right: 2rem !important;
+  }
+
+  .main-content {
+    max-width: none !important;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .main {
+    margin-left: 264px !important;
+  }
+
+  .main-content-wrap {
+    max-width: none !important;
+  }
+
+  .main-content {
+    max-width: none !important;
+  }
+}
+
+/* Also override any container width restrictions */
+.page-wrap .main-content-wrap .wrapper-main {
+  max-width: none !important;
+}
