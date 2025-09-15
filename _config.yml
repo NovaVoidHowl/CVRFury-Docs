@@ -30,6 +30,13 @@ github_username: novavoidhowl
 # Build settings
 theme: just-the-docs
 
+# Sass/SCSS configuration
+# silence deprecation warnings and compress output
+sass:
+  quiet_deps: true
+  style: compressed
+  verbose: false
+
 logo: assets/images/logos/CVRFuryLogo.png
 color_scheme: dark
 
