@@ -52,6 +52,8 @@ This docs site use [jekyll](https://jekyllrb.com/docs/usage/)
 To run this locally you need to install ruby and the jekyll ruby gem, please refer to the official jekyll
 [install guide](https://jekyllrb.com/docs/installation/) for instructions
 
+Then install the needed gems via the `bundle install` command run in the root of the repository
+
 To start the local copy of the site use the command  `jekyll serve` in the root of this repository
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
