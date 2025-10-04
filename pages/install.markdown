@@ -10,14 +10,12 @@ nav_order: 3
 
 ## Install Prerequisites
 
-- Unity 2021.3.45f1
-- git
-- ChilloutVR CCK
-
 ### Unity
 
-Please download and install from the unity official [release site](https://unity.com/releases/editor/archive)\
-The currently supported version is `2021.3.45f1`
+Please download and install from the official unity site\
+[Manual Downloads Page Link](https://unity.com/releases/editor/whats-new/2021.3.45f2#installs)\
+[Unity Hub Link](unityhub://2021.3.45f2/88f88f591b2e)
+
 
 ### Git
 
@@ -26,9 +24,8 @@ Git is needed to install the project package via the unity package manager, plea
 
 ### ChilloutVR CCK
 
-This package is for use with the ChilloutVR CCK, please download from the official ABI Interactive
-[downloads page](https://docs.abinteractive.net/cck/setup/)\
-The latest validated version is `3.15.1`
+This package is for use with the ChilloutVR CCK, please download from the official ChilloutVR Interactive
+[downloads page](https://docs.chilloutvr.net/cck/setup/)
 
 ______________________________________________________________________
 
@@ -59,7 +56,7 @@ The script should then be ready to configure via `NVH -> CVRFury -> Tool Setup`.
 ## Core Update Manager
 
 Should you want to switch to a different release channel or specific release of the software, you can do this via the menu
-option at `NVH -> CVRFury -> Update Manager`\\
+option at `NVH -> CVRFury -> Update Manager`
 
 {: .info-no-title }
 
