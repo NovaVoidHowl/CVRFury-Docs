@@ -1,47 +1,54 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 permalink: /conversion-tools/vrc-menu-and-param
 parent: Conversion Tools
-title: VRC Menu and Parameters
-nav_order: 2
+title: Menu and Parameter Conversion
+nav_order: 3
 ---
 
-## Conversion input/output files
+## Menu and Parameter Conversion
 
-The following is and example of the input VRC files and the resultant CVRFury ones (suffix `.CVRFury`)
+Menu and parameter conversion is now handled directly on the relevant component in the inspector — there are
+no longer separate converter windows.
+
+### Expression Parameters
+
+Parameter conversion is done on the component itself. The parameter list is visible directly in the inspector
+once converted.
 
 <div align="left">
   <img
-    src="/assets/images/conversion-tools/menu-param-example.png"
-    alt="image of a DSU component with its import section active"
+    src="/assets/images/conversion-tools/parm-conversion-component.png"
+    alt="Expression Parameters conversion on the component inspector"
   >
 </div>
 
-## Expression Parameters Converter
-
-This tool converts VRC Parameter files to ones that CVRFury can use, this process also lets you see the content of the
-list in the inspector.\
-The following is an example of an converted Parameters file.
+The following shows an example of the resulting CVRFury parameter list component after conversion.
 
 <div align="left">
   <img
-    src="/assets/images/conversion-tools/parm-list-example.png"
-    alt="image of a DSU component with its import section active"
+    src="/assets/images/conversion-tools/parm-cvrfury-component.png"
+    alt="CVRFury parameter list component inspector after conversion"
   >
 </div>
 
-## Expression Menu Converter
+### Expression Menu
 
-This tool converts VRC Menu files to ones that CVRFury can use, this process also lets you see the content.
-(Note it takes both the converted parameter list file(s) and the VRC Expression Menu files as input.)\
-The following is an example of a converted menu file.
+Menu conversion is also done on the component. The converted menu entries are visible in the inspector,
+including support for submenu links.
 
 <div align="left">
   <img
-    src="/assets/images/conversion-tools/menu-list-example.png"
-    alt="image of a DSU component with its import section active"
+    src="/assets/images/conversion-tools/menu-conversion-component.png"
+    alt="Expression Menu conversion on the component inspector"
+  >
+</div>
+
+The following shows an example of the resulting CVRFury menu component after conversion.
+
+<div align="left">
+  <img
+    src="/assets/images/conversion-tools/menu-cvrfury-component.png"
+    alt="CVRFury menu component inspector after conversion"
   >
 </div>

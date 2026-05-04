@@ -1,39 +1,52 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 permalink: /conversion-tools/vrcfury-to-cvrfury-prefab
 parent: Conversion Tools
-title: VRCFury to CVRFury Prefab
-nav_order: 3
+title: Importing VRCFury Content
+nav_order: 1
 ---
 
-## VRCFury to CVRFury Prefab Converter
+## Importing VRCFury Content
 
-This tool converts VRCFury to CVRFury prefabs.
+CVRFury now includes native stubs for VRC and VRCFury components. There is no longer a separate prefab
+conversion step — you can work directly import data from VRCFury prefabs in your scene.
+
+### Before You Import
+
+{: .warning-no-title }
+
+> <img src="../assets/images/icons/warning.512x512.png" alt="warning" width="25" height="25"> \
+> **Complete the following steps before clicking any green import buttons on the DSU.**
+>
+> Some features (e.g. `FullController`) depend on converted CVRFury-format files existing in your project
+> before import is triggered. Importing without these in place will fail or produce incomplete results.
+>
+> 1. **VRC Components** — If the prefab has VRC components (PhysBones, Contacts, etc.), convert them first.\
+>    See [VRC Component Handling](/conversion-tools/vrc-component-handler).
+> 2. **Expression Parameters** — Convert any VRC parameter files to CVRFury format first.\
+>    See [Menu and Parameter Conversion](/conversion-tools/vrc-menu-and-param).
+> 3. **Expression Menus** — Convert any VRC menu files to CVRFury format first.\
+>    See [Menu and Parameter Conversion](/conversion-tools/vrc-menu-and-param).
+
+### Import Workflow
+
+1. Drag the VRCFury prefab into your Unity scene hierarchy
+2. **Unpack the prefab** — right-click it in the hierarchy and choose `Prefab → Unpack Completely`.\
+   Adding components to a packed prefab can cause issues and is not supported.
+3. With the unpacked GameObject selected, add a `CVRFury DSU` (Data Storage Unit) component to it
+4. The DSU will automatically detect any VRCFury data present on the object and list the features found
 
 <div align="left">
   <img
-    src="/assets/images/conversion-tools/vrcfury-to-cvrfury.png"
-    alt="image of a DSU component with its import section active"
+    src="/assets/images/conversion-tools/dsu-import-features.png"
+    alt="DSU component showing detected VRCFury features ready for import"
   >
 </div>
 
-Before you run the prefab though this converter you should put it thorough the
-[VRC Component Handler](/conversion-tools/vrc-component-handler) converter first if it has any VRC components on it
-(eg. PhysBone)
+Green entries are supported and can be imported to the DSU. Click them to do so.\
+Grey entries are not currently supported for import — see [Feature Support](/feature-support) for the current list.
 
-Once the output prefab is created, you can then drag it into your project and un-pack it.
+{: .info-no-title }
 
-<div align="left">
-  <img
-    src="/assets/images/conversion-tools/unpack-prefab.png"
-    alt="image of a DSU component with its import section active"
-  >
-</div>
-At this point you can choose what features you wish to import, (note not all VRCFury features can be imported
-see [Feature Support](/feature-support) for an up-to-date list)
-
-If you want to import a `FullController` feature then you must make sure to run the related Menu and Parameter files
-though the [converters](/conversion-tools/vrc-menu-and-param) first.
+> <img src="../assets/images/icons/info.512x512.png" alt="info" width="25" height="25"> \
+> If the prefab contains VRC components (e.g. PhysBones, Contacts), CVRFury will flag these in the Validator.

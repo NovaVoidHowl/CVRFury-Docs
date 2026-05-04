@@ -13,8 +13,8 @@ nav_order: 3
 ### Unity
 
 Please download and install from the official unity site\
-[Manual Downloads Page Link](https://unity.com/releases/editor/whats-new/2021.3.45f2#installs)\
-[Unity Hub Link](unityhub://2021.3.45f2/88f88f591b2e)
+[Manual Downloads Page Link](https://unity.com/releases/editor/whats-new/2022.3.58f1#installs)\
+[Unity Hub Link](unityhub://2022.3.58f1/ed7f6eacb62e)
 
 
 ### Git

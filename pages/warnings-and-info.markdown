@@ -9,6 +9,13 @@ nav_order: 2
 
 Due to a breaking change in CCK 3.10 only that or later versions of the CCK are now compatible with this software.
 
+{: .warning-no-title }
+
+> <img src="assets/images/icons/warning.512x512.png" alt="warning" width="25" height="25"> \
+> It is strongly advisable to always use the latest versions of both the CCK and CVRFury.\
+> Using outdated versions may result in missing features, compatibility issues, or unexpected behaviour.\
+> Check the [home page](/) for the currently validated/supported versions.
+
 ### Post VRCFury 1.744.0 / Datastore V3 support
 
 Datastore V3 compatibility added as of CVRFury 0.124.0-experimental
@@ -18,7 +25,7 @@ re-convert its VRCFury prefab and re-add it, as if it was there before it's 'con
 
 {: .info-no-title }
 
-> <img src="assets/images/icons/info.512x512.png" alt="warning" width="25" height="25"> \
+> <img src="assets/images/icons/info.512x512.png" alt="info" width="25" height="25"> \
 > Import support of V3 datastore items is currently a work in progress, please see the 'Feature list' section of this
 > document for more info
 
