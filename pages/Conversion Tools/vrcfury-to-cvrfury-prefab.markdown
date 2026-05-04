@@ -9,7 +9,7 @@ nav_order: 1
 ## Importing VRCFury Content
 
 CVRFury now includes native stubs for VRC and VRCFury components. There is no longer a separate prefab
-conversion step — you can work directly import data from VRCFury prefabs in your scene.
+conversion step — you can directly import data from VRCFury prefabs in your scene.
 
 ### Before You Import
 
